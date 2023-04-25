@@ -5,6 +5,8 @@
 ![Ruby](https://img.shields.io/badge/ruby-%23CC245D.svg?style=for-the-badge&logo=ruby&logoColor=white)
 ![C](https://img.shields.io/badge/c%20(SGDK)-%23005980.svg?style=for-the-badge&logo=c&logoColor=white)
 
+
+![React.js](https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoColor=white&style=for-the-badge)
 ![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
 ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
 ![Pug](https://img.shields.io/badge/Pug-FFF?style=for-the-badge&logo=pug&logoColor=A86454)
